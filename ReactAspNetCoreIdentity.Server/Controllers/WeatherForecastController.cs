@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using ReactAspNetCoreIdentity.Server.Models;
 
 namespace ReactAspNetCoreIdentity.Server.Controllers
 {
